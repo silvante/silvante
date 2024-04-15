@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Slivait](https://github.com/Khamidov-M/slivait)
+- 🔭 I’m currently working on [realway](https://github.com/silvante/realway)
 
 - 🌱 I’m currently learning **node js, expess, mongodb**
 
@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **TEAM portfolio**
 
-- ✅ My posrtfolio [https://yustas.netlify.app/](https://yustas.netlify.app/)
+- ✅ My posrtfolio [https://yustas.netlify.app/](https://silvante.netlify.app/)
 
 - 💬 Ask me about **react js, JavaScript**
 
-- 📫 How to reach me **khamidov.can@gmail.com**
+- 📫 How to reach me **khamidov.ko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
