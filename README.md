@@ -16,6 +16,7 @@
 - 📫 How to reach me **khamidov.ko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://images.app.goo.gl/Pmp8HqLTBrqAXosE8" alt="katakuri" />
 <p align="left">
 </p>
 
