@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
 <h3 align="center">A passionate software engineer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvante" alt="silvante" /></a> </p>
-
 - 🔭 I’m currently working on [PizzApp](https://github.com/silvante/pizza)
 
 - 🌱 I’m currently learning **Ruby on Rails, Ruby**
