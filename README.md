@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6IxNEDDha9LrboUILHnrPg.png" alt="Ruby and Ruby on rails">
+<img src="https://raw.githubusercontent.com/silvante/portfolio/refs/heads/main/src/assets/github-readme.jpg" alt="Ruby and Ruby on rails">
 
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
 <h3 align="center">A passionate software engineer from Uzbekistan</h3>
