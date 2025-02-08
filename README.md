@@ -1,3 +1,5 @@
+<img src="[https://github.com/yourusername/repo-name/blob/main/image.png](https://d32myzxfxyl12w.cloudfront.net/images/blog_images/3f9a4a47edcd41fc111e5c994bc21ce0991b52f0.webp?1702029971)" alt="Image Description" width="500">
+
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
 <h3 align="center">A passionate software engineer from Uzbekistan</h3>
 
