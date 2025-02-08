@@ -1,4 +1,4 @@
-<img src="https://d32myzxfxyl12w.cloudfront.net/images/blog_images/3f9a4a47edcd41fc111e5c994bc21ce0991b52f0.webp?1702029971" alt="Ruby and Ruby on rails" width="500">
+<img src="https://d32myzxfxyl12w.cloudfront.net/images/blog_images/3f9a4a47edcd41fc111e5c994bc21ce0991b52f0.webp?1702029971" alt="Ruby and Ruby on rails">
 
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
 <h3 align="center">A passionate software engineer from Uzbekistan</h3>
