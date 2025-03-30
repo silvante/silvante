@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
 <h3 align="center">A passionate software engineer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [PizzApp](https://github.com/silvante/pizza)
-
-- 🌱 I’m currently learning ** Nest JS **
+- 🌱 I’m currently learning **Nest JS**
 
 - 👯 I’m looking to collaborate on [GEMSTER](https://github.com/gemster82)
 
-- 👨‍💻 All of my projects are available at [https://silvante.netlify.app/](https://silvante.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://silvante.netlify.app/)
 
 - 💬 Ask me about **React, node js, Ruby, Ruby on Rails**
 
