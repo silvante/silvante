@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/silvante/portfolio/refs/heads/main/src/assets/github-readme.jpg" alt="Ruby and Ruby on rails">
 
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 - 🌱 I’m currently learning **NestJS, TypeScript**
 
