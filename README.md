@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PizzApp](https://github.com/silvante/pizza)
 
-- 🌱 I’m currently learning **Ruby on Rails, Ruby**
+- 🌱 I’m currently learning ** Nest JS **
 
 - 👯 I’m looking to collaborate on [GEMSTER](https://github.com/gemster82)
 
