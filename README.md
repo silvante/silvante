@@ -1,5 +1,5 @@
 ## Hey 👋, I am Mardonbek Khamidov.
-I am 17 years old now and I am from uzbekistan.
+I am 17 years old now and I am from uzbekistan
 
 ## 💫 About Me
 I am a software engineer, I often work with node js, and I like to use Ruby on Rails as a full stack framework, now I am learning Nest JS and typeScript in order to create strong ans secure back-end applications, as a front-end tool I use react with javaScript, but usually I like to create back-end parts. Just for interest I really like to create a CRMs. I want to work with partners that very skilled and has own dreams in order to create Powerful Social media platform.
