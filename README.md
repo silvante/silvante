@@ -1,4 +1,4 @@
-## Hey 👋, I am Mardonbek Khamidov.
+## Hey 👋, I am Mardonbek Khamidov
 I am 17 years old now and I am from uzbekistan
 
 ## 💫 About Me
