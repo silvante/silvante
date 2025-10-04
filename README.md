@@ -2,7 +2,9 @@
 I am 17 years old now and I am from uzbekistan
 
 ## 💫 About Me
-I am a software engineer, I often work with node js, and I like to use Ruby on Rails as a full stack framework, now I am learning Nest JS and typeScript in order to create strong ans secure back-end applications, as a front-end tool I use react with javaScript, but usually I like to create back-end parts. Just for interest I really like to create a CRMs. I want to work with partners that very skilled and has own dreams in order to create Powerful Social media platform.
+I am a software engineer with extensive experience in Node.js and a strong preference for using Ruby on Rails as a full-stack framework. I am currently expanding my expertise in NestJS and TypeScript to develop robust and secure back-end applications. For front-end development, I primarily work with React and JavaScript, although my primary focus and passion lie in building back-end systems.
+
+I have a particular interest in developing CRM systems and aspire to collaborate with highly skilled partners who have their own vision and ambitions. Together, I aim to create a powerful and innovative social media platform.
 
 
 ## 🌐 Socials
